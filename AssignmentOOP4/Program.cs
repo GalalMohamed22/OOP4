@@ -13,6 +13,16 @@ namespace AssignmentOOP4
 
             #endregion
 
+            #region Q2 
+
+            // A) An abstract class can contain shared code, fields, constructors, and An interface mainly defines a contract
+            // B) when unrelated classes need to share the same contract
+            // c) No, a class cannot inherit from multiple abstract classes But it can implement multiple interfaces
+
+
+            #endregion
+
+
         }
     }
 }
